@@ -1,0 +1,1 @@
+In this project, I conducted a detailed analysis of OLA's total booking value for the month of July, utilizing MySQL to uncover crucial insights and trends. The primary goal was to understand the financial performance, identify patterns in customer bookings, and highlight areas for potential growth
